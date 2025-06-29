@@ -82,7 +82,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ojas-Rohatgi&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ojas-Rohatgi&theme=tokyonight&show_icons=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ojas-Rohatgi&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas-Rohatgi&layout=compact&theme=tokyonight" />
 </p>
