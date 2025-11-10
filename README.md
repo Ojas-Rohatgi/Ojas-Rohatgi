@@ -32,25 +32,19 @@
 
 ### 🚀 Featured Projects
 
-<table align="center" cellspacing="0" cellpadding="10" border="0">
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/Ojas-Rohatgi/Deforestation-Detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ojas-Rohatgi&repo=Deforestation-Detection&theme=tokyonight&show_owner=false" />
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/Ojas-Rohatgi/Stock-Market-Sentiment-Analysis-using-hugging-face">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ojas-Rohatgi&repo=Stock-Market-Sentiment-Analysis-using-hugging-face&theme=tokyonight&show_owner=false" />
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/Ojas-Rohatgi/Abstractive-Article-Summarizer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ojas-Rohatgi&repo=Abstractive-Article-Summarizer&theme=tokyonight&show_owner=false" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Ojas-Rohatgi/Deforestation-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ojas-Rohatgi&repo=Deforestation-Detection&theme=tokyonight&show_owner=false" />
+  </a>
+  <br>
+  <a href="https://github.com/Ojas-Rohatgi/Stock-Market-Sentiment-Analysis-using-hugging-face">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ojas-Rohatgi&repo=Stock-Market-Sentiment-Analysis-using-hugging-face&theme=tokyonight&show_owner=false" />
+  </a>
+  <br>
+  <a href="https://github.com/Ojas-Rohatgi/Abstractive-Article-Summarizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ojas-Rohatgi&repo=Abstractive-Article-Summarizer&theme=tokyonight&show_owner=false" />
+  </a>
+</p>
 
 ---
 
