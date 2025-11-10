@@ -6,7 +6,7 @@
 
 ### 💫 About Me
 
-- 🎓 B.Tech CSE (DS & AI) student at **SRM University, Delhi-NCR**.
+- 🎓 Studying B.Tech CSE (DS & AI) at **SRM University, Delhi-NCR**.
 - 🤖 AI enthusiast focused on **Computer Vision**, **NLP**, **Geospatial AI**, and **Local LLM** deployments.
 - 🧠 Passionate about building practical AI systems using **PyTorch**, **TensorFlow**, **FastAPI**, and **Vector DBs**.
 - 🔭 My work often involves:
@@ -16,7 +16,7 @@
 
 ### 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ojas-rohatgi-45670a267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -48,24 +48,37 @@
 
 ### 💻 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/YOLO-%23000000.svg?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO">
-  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-%2334A853.svg?style=for-the-badge&logo=googleearth&logoColor=white" alt="Google Earth Engine">
-  <img src="https://img.shields.io/badge/NLTK-%23007ACC.svg?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK">
-  <br>
-  <img src="https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <br>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/SQL-%23007494.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
-</p>
+<table align="center" cellspacing="4" cellpadding="4">
+  <tr>
+    <td align="right" width="140px"><strong>AI / ML / DL</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+      <img src="https://img.shields.io/badge/YOLO-%23000000.svg?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO">
+      <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+      <img src="https://img.shields.io/badge/Google%20Earth%20Engine-%2334A853.svg?style=for-the-badge&logo=googleearth&logoColor=white" alt="Google Earth Engine">
+      <img src="https://img.shields.io/badge/NLTK-%23007ACC.svg?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK">
+    </td>
+  </tr>
+  <tr>
+    <td align="right" width="140px"><strong>Tools & Infra</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+      <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </td>
+  </tr>
+  <tr>
+    <td align="right" width="140px"><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+      <img src="https://img.shields.io/badge/SQL-%23007494.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
+    </td>
+  </tr>
+</table>
 
 ---
 
