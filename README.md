@@ -33,6 +33,10 @@
 ### 🚀 Featured Projects
 
 <p align="center">
+  <a href="https://github.com/Ojas-Rohatgi/Liver-Tumor-Segmentation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ojas-Rohatgi&repo=Liver-Tumor-Segmentation&theme=tokyonight&show_owner=false" />
+  </a>
+  <br>
   <a href="https://github.com/Ojas-Rohatgi/Deforestation-Detection">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ojas-Rohatgi&repo=Deforestation-Detection&theme=tokyonight&show_owner=false" />
   </a>
